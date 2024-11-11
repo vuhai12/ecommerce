@@ -1,0 +1,19 @@
+INSERT INTO Roles (code, value) VALUES ('R1', 'Admin');
+INSERT INTO Roles (code, value) VALUES ('R2', 'Moderator');
+INSERT INTO Roles (code, value) VALUES ('R3', 'User');
+
+
+INSERT INTO Categories (code, value) VALUES ('kinhte', 'Kinh Tế');
+INSERT INTO Categories (code, value) VALUES ('khoahoc', 'Khoa Học');
+INSERT INTO Categories (code, value) VALUES ('lichsu', 'Lịch Sử');
+INSERT INTO Categories (code, value) VALUES ('giaoduc', 'Giáo Dục');
+INSERT INTO Categories (code, value) VALUES ('hoiky', 'Hồi Ký');
+INSERT INTO Categories (code, value) VALUES ('truyentranh', 'Truyện Tranh');
+INSERT INTO Categories (code, value) VALUES ('tapchi', 'Tạp Chí');
+INSERT INTO Categories (code, value) VALUES ('dulich', 'Du Lịch');
+
+INSERT INTO Roles (code, value) VALUES ('R1', 'Admin');
+INSERT INTO Roles (code, value) VALUES ('R2', 'User');
+INSERT INTO Roles (code, value) VALUES ('R3', 'Guest');
+
+
